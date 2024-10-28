@@ -1,0 +1,2 @@
+# pypelco
+Python Pelco interface
